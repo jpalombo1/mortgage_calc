@@ -1,0 +1,19 @@
+analysis:
+  survey_param: "monthly_total_cost"
+  survey_change: 100
+  num_values: 10
+  percent_increase: 2
+  plot_absolute: False
+  house_cost_change: 60000
+  percent_down_change: 15
+  percent_interest_change: 1
+  taxes_change: 3000
+object:
+  house_cost: 400000
+  percent_down: 5
+  annual_taxes: 6000
+  percent_interest: 3.25
+  total_months: 360
+  percent_pmi: 0.28
+  annual_homeowner_cost: 0
+  bill_cost_per_mo: 0
